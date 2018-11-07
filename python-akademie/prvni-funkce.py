@@ -87,17 +87,6 @@ import random
 
 
 
-def min(sequence):
-    minval = sequence[0]
-    for item in sequence[1:]:
-        if item < minval:
-            minval = item
-    return minval
-
-lst = [8,2,3,1,4,5,6]
-result = min(lst)
-print(result)
-
 
 # def my_min(sequence):
 #     min = sequence[0]
@@ -111,6 +100,9 @@ print(result)
 # result = my_min(lst)
 # print(result)
 
+ahoj = print('ahoj')
+
+print(ahoj)
 
 
 
