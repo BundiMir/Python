@@ -1,1 +1,0 @@
-# prvni python file na githubu
